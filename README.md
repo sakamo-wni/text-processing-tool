@@ -1,0 +1,2 @@
+# text-processing-tool
+高度なテキスト処理とLLM統合を行うStreamlitアプリケーション
